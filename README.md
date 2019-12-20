@@ -3,6 +3,8 @@ This is a place to share small programs I write.  You know those that do one or 
 
 If you have use for anything here, go for it.
 
+I am a member of the South West USA RISC OS Users Group since 1992.
+
 ## Important
 These Programs are for RISC OS.
 
