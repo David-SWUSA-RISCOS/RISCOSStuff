@@ -1,0 +1,12 @@
+These programs are simple little toy graphics written either in showing
+someone how to do something, or just for the fun of it.  Either way I hope
+you either learn a little from these or have some fun with them.
+
+Included are:
+* Program illistrating how to implement Midpoint Circle Algorithm.
+* SinHat.
+* A wheel of all points connected.
+* A Mandelbrot.
+* And one anoying animation with sound.
+
+As I add comments, and or clean up some of the code, others will be added.
