@@ -16,3 +16,4 @@ I have a number of projects in the pipeline.   As each gets closer to its initia
 
 * BasC4Arm (originally just BasC) : A BASIC Compiler for BBC BASIC V Code that targets the RISC OS. This started out being written in BBC BASIC V, though has changed to being written in QuickBASIC and ran in x86 DOS operating systems, so as to insure its future (as RISC OS is in the process of changing).
 * MSysLib: A set of C bindings for writing RISC OS programs, designed to be small and efficient.  These are written 100% in ARM Assembly.
+* 86Sys : A simple PC Compatible Computer Emulator for running DOS programs, and other OSes as well.  Initially will be 8088/8086 based systems only, will add more support over time.
