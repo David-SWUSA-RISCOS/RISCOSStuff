@@ -12,4 +12,4 @@ Any BASIC code is in tokenized form not text.
 
 ## Planned Software:
 
-I will in the nearish future be releasing what I have completed, or at least got to a usable point for RISC OS.  It is likely that I will after 34 years be moving away from RISC OS usage and back toward Classic Macintosh System Software, Amiga OS, and Apple IIgs GS/OS usage.
+I am back on RISC OS as a primary, so will have to update this little place when I boot into Haiku OS on my PC/AT Compatible AMD Athlon box.
