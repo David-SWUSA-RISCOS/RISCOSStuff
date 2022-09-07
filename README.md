@@ -7,7 +7,7 @@ All BASIC Programs will be in BBC BASIC V.  All Assembly Programs will have ther
 
 Nothing will be allocated, I am an American, and we are not known for allocating applications, modules or similar.  This is the way it has always been, no reason to change now.
 
-# Without WIMP:
+## Without WIMP:
 
 It is interesting when you realize some things.  One thing I recently realized is that the programs I enjoy the most in RISC OS are those that do not use the WIMP at all.   I have began to think about this for other Operating Systems I like as well, and it is that all my most liked and used are those that do not take advantage of a Windowing System.
 
@@ -15,7 +15,9 @@ This goes for all kinds of programs, including some that by nature use a mouse (
 
 Thanks to my love of RISC OS I have realized what other Operating Systems I really still enjoy, including some that have had minimal use as late do to falling for the it's outdated wrong mindset.  These OS's are the kinds of OS that will drive us forward to long term computing.
 
-### Some of the Other CLI Operating Systems I like include:
+### Some of the Other Operating Systems I like include:
+
+Some with GUI as well, though different GUI's than the mainstream RISC OS or X11 WM's.
 
 * RT-11
 * Apple DOS 3.3
@@ -25,15 +27,17 @@ Thanks to my love of RISC OS I have realized what other Operating Systems I real
 * DOS/65
 * Lunix & LNG
 * KERNAL + BASIC 2.0, 3.5, and 7.0 and CBM-DOS (Commodore 8-bit computers).
-* DR-DOS Most versions.
+* Atari TOS.
+* DR-DOS Most versions (even with GEM).
 * MS-DOS 3.3 through 5.x, and 7.1 (without the GUI system).
-* FreeDOS.
-* RISC OS.
+* FreeDOS (even with OpenGEM / FreeGEM).
+* RISC OS (especially without the WIMP).
 
 Of these those that are still practicle for modern application as a primary OS are:
 * DR-DOS
 * MS-DOS
 * FreeDOS
+* Atari TOS.
 * RISC OS (without WIMP).
 
 Of the considered OS's some are still useful for many things, though not quite up to primary OS:
