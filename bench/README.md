@@ -26,7 +26,7 @@ flag%(tmp%) = flags(tmp%) OR (1 << (idx% AND &1F))
 Then to clear a bit flag at idx% (which we do in our sieve) you:
 ```
 tmp% = idx% >> 5
-flag%(tmp%) = flags(tmp%) EOR (1 << (idx% AND &1F))
+flag%(tmp%) = flag%(tmp%) EOR (1 << (idx% AND &1F))
 ```
 
 It is pretty simple.  The difference in speed is very little, and it saves a lot of RAM.  Your flags array is one thirtysecond of what it would be using a full integer for each flag.
