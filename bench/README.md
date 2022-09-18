@@ -18,7 +18,7 @@ Then q% is non-zero if the flag is set and 0 otherwise, making it useful in a co
 
 If you need to have the return value be either 1 or 0 for some operation then you can instead use:
 ```
-tmp% = q% AND &1F
+tmp% = idx% AND &1F
 q% = (flag%(idx% >> 5) AND (1 << tmp%)) >> tmp%
 ```
 
