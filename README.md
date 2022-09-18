@@ -7,15 +7,9 @@ All BASIC Programs will be in BBC BASIC V.  All Assembly Programs will have ther
 
 Nothing will be allocated, I am an American, and we are not known for allocating applications, modules or similar.  This is the way it has always been, no reason to change now.
 
-## Without WIMP:
+## License NOTE:
 
-It is interesting when you realize some things.  One thing I recently realized is that the programs I enjoy the most in RISC OS are those that do not use the WIMP at all.   I have began to think about this for other Operating Systems I like as well, and it is that all my most liked and used are those that do not take advantage of a Windowing System.
-
-This goes for all kinds of programs, including some that by nature use a mouse (like Graphical Web Browsers or Paint Programs), it is the full screen graphical programs, and other command line driven software that holds me on any OS.
-
-Thanks to my love of RISC OS I have realized what other Operating Systems I really still enjoy, including some that have had minimal use as late do to falling for the it's outdated wrong mindset.  These OS's are the kinds of OS that will drive us forward to long term computing.
-
-I do still enjoy playing around in Windowing Systems for some things, though only when it is sensible.
+Some of the source here still has a note on the MIT license.  I am explictily relicensing everything in this repo under the Unlicense, as it needs not be restricted by even keeping a copywrite of any form.  It may take a day or two to remove the MIT license from all of the source, please do not let that slow anyone down.
 
 ## Going very Long Term Desktop Computer usage.
 
