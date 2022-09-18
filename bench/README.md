@@ -14,7 +14,7 @@ Think about how to index a flag in BASIC (similar in Assembly or other languages
 q% = flag%(idx% >> 5) AND (1 << (idx% AND &1F))
 ```
 
-Then q% is 1 if the flag is set and 0 otherwise, making it useful in a conditional directly (0 is FALSE in BASIC and any non-zero value is one).
+Then q% is non-zero if the flag is set and 0 otherwise, making it useful in a conditional directly (0 is FALSE in BASIC and any non-zero value is one).
 
 To set the flag at idx% to true using the same flag%() array you would:
 
