@@ -2,3 +2,5 @@ These are just some graphical toys in RISC OS BBC BASIC V.  Just so that there i
 
 The !help, readme/txt and license files is of type text.
 The other files need to be typed to BASIC in RISC OS.
+
+Going to be uploading an arcfs archive to preserve filetypes.  Also changing the license information in each file.
