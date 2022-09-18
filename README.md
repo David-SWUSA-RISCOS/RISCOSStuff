@@ -11,6 +11,12 @@ Nothing will be allocated, I am an American, and we are not known for allocating
 
 Some of the source here still has a note on the MIT license.  I am explictily relicensing everything in this repo under the Unlicense, as it needs not be restricted by even keeping a copywrite of any form.  It may take a day or two to remove the MIT license from all of the source, please do not let that slow anyone down.
 
+## Update Note:
+
+I am back to using real Operating systems.  This means that there will be significant periods of time between updates as I will not often boot into Linux or AROS for the purpose of being able to access GitHub (or my main file site for upload, or an other web site).
+
+I have managed to make a 3D-Priner Logo so I can create 3D model G-Code on real computers and not have to worry about high resource tools that are useless in many areas.  As such I no longer have any need of regularly using Linux or AROS (at least AROS is better than Linux, for my usage).
+
 ## Going very Long Term Desktop Computer usage.
 
 This and my [8-bit and Macro Assembler Stuff](https://github.com/David-SWUSA-RISCOS/MacStuffA/) repos are my ongoing focus. The goal is to enjoy coding, and promote the design and use of extreme long term usage Desktop Computers (Desktop Systems designed to be used for 5 decades or more without replacement, both software and hardware). We have had Desktop Personal Computers for about 50 years now, so we now are in a place to look at what has been reliable for these things and what has not been so reliable.
