@@ -20,7 +20,7 @@ To set the flag at idx% to true using the same flag%() array you would:
 
 ```
 tmp%=idx%>>5
-flag%(tmp%) = flags(tmp%) EOR (1 << (idx% AND &1F))
+flag%(tmp%) = flags(tmp%) OR (1 << (idx% AND &1F))
 ```
 
 It is pretty simple.  The difference in speed is very little, and it saves a lot of RAM.  Your flags array is one thirtysecond of what it would be using a full integer for each flag.
