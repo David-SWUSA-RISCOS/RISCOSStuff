@@ -16,6 +16,12 @@ q% = flag%(idx% >> 5) AND (1 << (idx% AND &1F))
 
 Then q% is non-zero if the flag is set and 0 otherwise, making it useful in a conditional directly (0 is FALSE in BASIC and any non-zero value is True).
 
+If you need to have the return value be either 1 or 0 for some operation then you can instead use:
+```
+tmp% = q% AND &1F
+q% = (flag%(idx% >> 5) AND (1 << tmp%)) >> tmp%
+```
+
 To set the flag at idx% to true using the same flag%() array you would:
 
 ```
