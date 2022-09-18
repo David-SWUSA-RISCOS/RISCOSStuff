@@ -1,10 +1,10 @@
-#Language and Implementation Benchmarks
+# Language and Implementation Benchmarks
 
 There are a number of benchmarking areas that help in learning how to better write code, and how to choose the best programming language.
 
 Some of these are samples of speed, some of saving memory, and more.
 
-##Sieve of Eratosthenes
+## Sieve of Eratosthenes
 
 This is one that is often wasteful in memory.  Often people implement it to use an entire integer for each flag of composite vs prime, this only takes a single bit to represent, thus each 32-bit integer can hold 32 flags.
 
